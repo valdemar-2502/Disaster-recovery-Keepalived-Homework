@@ -45,7 +45,7 @@
 ------
 ![Скриншот](https://github.com/valdemar-2502/Disaster-recovery-Keepalived-Homework/blob/main/task%201.png)
 схема:
-[схема](1/hsrp_advanced.pkt)
+[(схема решения)](https://github.com/valdemar-2502/Disaster-recovery-Keepalived-Homework/blob/main/hsrp_advanced_new.pkt))
 ### Задание 2
 - Запустите две виртуальные машины Linux, установите и настройте сервис Keepalived как в лекции, используя пример конфигурационного [файла](1/keepalived-simple.conf).
 - Настройте любой веб-сервер (например, nginx или simple python server) на двух виртуальных машинах
