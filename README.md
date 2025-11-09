@@ -59,7 +59,11 @@
 ![Скриншот](https://github.com/valdemar-2502/Disaster-recovery-Keepalived-Homework/blob/main/demo4.1.png)
 ![Скриншот](https://github.com/valdemar-2502/Disaster-recovery-Keepalived-Homework/blob/main/demo5.png)
 ------
+[(bash_script_keepalived)](https://github.com/valdemar-2502/Disaster-recovery-Keepalived-Homework/blob/main/check_nginx.sh))
 
+[(keepalived.conf-MASTER)](https://github.com/valdemar-2502/Disaster-recovery-Keepalived-Homework/blob/main/keepalived.conf-MASTER))
+
+[(keepalived.conf-BACKUP)](https://github.com/valdemar-2502/Disaster-recovery-Keepalived-Homework/blob/main/keepalived.conf-BACKUP))
 
 ------
 
